@@ -1,0 +1,10 @@
+﻿Instrucciones de instalacion:
+
+
+1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “bookdent”, a la cual se puede acceder 
+desde localhost/bookdent/index.php al cual se puede acceder con el user y contrasena de admin
+- Buscar el archivo schema.sql, una vez localizado copiar y pegar el contenido en una ventana de MySQL,
+ PHPMyAdmin- En caso de ser necesario modificar el archivo C:\xampp\htdocs\core\controller\Database.php
+ para los datos asociados al acceso a la base de datos.
+
+Login.
